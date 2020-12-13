@@ -1,0 +1,18 @@
+.error{
+    color:red;
+}
+.table{
+    height:500px;
+    width: 100%;
+    overflow-y: scroll;  
+}
+
+/* Scrollbar  */
+::-webkit-scrollbar-thumb{
+    background: #333;
+    border-radius:10px;
+}
+
+::-webkit-scrollbar{
+    width:10px;
+}
