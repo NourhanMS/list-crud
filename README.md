@@ -4,4 +4,6 @@ Simple CRUD operations made using native php where you can add a list item / upd
 
   ### steps to start the project :
 1) Inside project/app/db/connection.php  adjust the database credentials
-2) inside project folder write this command : composer dump-autoload 
+2) inside project folder write these commands : 
+  a)npm install
+  b)composer dump-autoload 
